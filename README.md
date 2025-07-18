@@ -10,5 +10,5 @@ Sitio web profesional para la empresa "Química TM"
 - **donde-nos-ubicamos.html**: Ubicación con mapa de Google.
 - **contacto.html**: Formulario funcional de contacto.
 
-## 📁 Estructura de carpetas
+
 
